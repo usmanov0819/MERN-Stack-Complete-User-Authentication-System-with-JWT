@@ -18,5 +18,3 @@ Include:
 -   Change permissions and delete user accounts with Admin.
 
 -   Below is the Demo link. Thanks and have a good day!💓💓
-
-## Demo: https://mernauth08h.herokuapp.com/
